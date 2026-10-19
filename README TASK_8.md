@@ -271,4 +271,5 @@ namespace Task_8
 
 Ниже приведён скриншот консоли с результатом запуска программы.
 
-![Скриншот результата выполнения программы](result.png)
+![Скриншот результата выполнения программы]<img width="1920" height="1080" alt="Happ Screenshot 2026 10 19 - 21 14 59 09" src="https://github.com/user-attachments/assets/d1ef6b37-ac35-4c67-9cd6-f282fb7145cf" />
+
